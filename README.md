@@ -22,7 +22,8 @@ To install the app on your Android device, use the following options:
 
 - **APK URL**: [Download Calculator App APK](https://expo.dev/accounts/sujal24/projects/App1/builds/18e5e2aa-b33e-400a-b417-5663dec0edec)  
 - **Scan QR Code**:  
-  ![QR Code](https://via.placeholder.com/250)  
+  (![QR Code](./assets/qr-code.png)
+)  
 
 ---
 
